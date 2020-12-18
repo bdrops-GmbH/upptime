@@ -1,5 +1,23 @@
 [
   {
+    "name": "CB App API",
+    "url": "https://app.cbmode.de/app/tiles",
+    "icon": "https://favicons.githubusercontent.com/app.cbmode.de",
+    "slug": "cb-app-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 801,
+    "timeDay": 801,
+    "timeWeek": 801,
+    "timeMonth": 801,
+    "timeYear": 801,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "CB Mode",
     "url": "https://cbmode.de",
     "icon": "https://favicons.githubusercontent.com/cbmode.de",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1190,
-    "timeDay": 1190,
-    "timeWeek": 1190,
-    "timeMonth": 1190,
-    "timeYear": 1190,
+    "time": 1204,
+    "timeDay": 1204,
+    "timeWeek": 1204,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1009,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
+    "time": 1000,
+    "timeDay": 1000,
+    "timeWeek": 1000,
+    "timeMonth": 1000,
+    "timeYear": 1000,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4882,
-    "timeDay": 4882,
-    "timeWeek": 4882,
-    "timeMonth": 4882,
-    "timeYear": 4882,
+    "time": 3884,
+    "timeDay": 3884,
+    "timeWeek": 3884,
+    "timeMonth": 3884,
+    "timeYear": 3884,
     "dailyMinutesDown": {}
   }
 ]
