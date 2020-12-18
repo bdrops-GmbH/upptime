@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://bdrops.de/sites/all/themes/responsivebase/images/logo2x.png
   name: bdrops Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** ist ein Open Source Uptime Monitor, powered by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
@@ -50,7 +50,7 @@ i18n:
   pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Kommentaren
   liveStatus: Live Status
   overallUptime: "Gesamtbetriebszeit: $UPTIME"
-  overallUptimeTitle: Gesamtbetriebszeit
+  overallUptimeTitle: Uptime gesamt
   averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Reaktionszeit
   sevelDayResponseTime: 7-Tage Reaktionszeit
