@@ -4,6 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: CB App API
+    url: https://app.cbmode.de/app/tiles
   - name: CB Mode
     url: https://cbmode.de
   - name: CB Shop
