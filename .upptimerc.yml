@@ -8,6 +8,8 @@ sites:
     url: https://cbmode.de
   - name: CB Shop
     url: https://shop.cbmode.de
+  - name: Zingst
+    url: https://www.zingst.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
