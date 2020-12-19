@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/app.cbmode.de",
     "slug": "cb-app-api",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.18%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 934,
     "timeDay": 934,
     "timeWeek": 934,
     "timeMonth": 934,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2020-12-19": 2
+      "2020-12-19": 11
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://cbmode.de",
     "icon": "https://favicons.githubusercontent.com/cbmode.de",
     "slug": "cb-mode",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1215,
-    "timeDay": 1215,
-    "timeWeek": 1215,
-    "timeMonth": 1215,
-    "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1156,
+    "timeDay": 1156,
+    "timeWeek": 1156,
+    "timeMonth": 1156,
+    "timeYear": 1156,
+    "dailyMinutesDown": {
+      "2020-12-19": 0
+    }
   },
   {
     "name": "CB Shop",
@@ -43,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/shop.cbmode.de",
     "slug": "cb-shop",
     "status": "down",
-    "uptime": "68.65%",
-    "uptimeDay": "68.65%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "68.65%",
-    "uptimeYear": "68.65%",
+    "uptime": "68.20%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "68.20%",
+    "uptimeMonth": "68.20%",
+    "uptimeYear": "68.20%",
     "time": 992,
     "timeDay": 992,
     "timeWeek": 992,
     "timeMonth": 992,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2020-12-19": 416
+      "2020-12-19": 425
     }
   },
   {
