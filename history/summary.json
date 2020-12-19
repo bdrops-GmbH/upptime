@@ -4,18 +4,20 @@
     "url": "https://app.cbmode.de/app/tiles",
     "icon": "https://favicons.githubusercontent.com/app.cbmode.de",
     "slug": "cb-app-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 977,
-    "timeDay": 977,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 934,
+    "timeDay": 934,
+    "timeWeek": 934,
+    "timeMonth": 934,
+    "timeYear": 934,
+    "dailyMinutesDown": {
+      "2020-12-19": 2
+    }
   },
   {
     "name": "CB Mode",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/shop.cbmode.de",
     "slug": "cb-shop",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "68.65%",
+    "uptimeDay": "68.65%",
+    "uptimeWeek": "68.65%",
+    "uptimeMonth": "68.65%",
+    "uptimeYear": "68.65%",
     "time": 992,
     "timeDay": 992,
     "timeWeek": 992,
     "timeMonth": 992,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2020-12-19": 0
+      "2020-12-19": 416
     }
   },
   {
