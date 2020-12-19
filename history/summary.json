@@ -40,18 +40,20 @@
     "url": "https://shop.cbmode.de",
     "icon": "https://favicons.githubusercontent.com/shop.cbmode.de",
     "slug": "cb-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 992,
     "timeDay": 992,
     "timeWeek": 992,
     "timeMonth": 992,
     "timeYear": 992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-19": 0
+    }
   },
   {
     "name": "Zingst",
