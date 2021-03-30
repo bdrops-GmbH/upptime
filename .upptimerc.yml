@@ -33,6 +33,7 @@ status-website:
 # Translation
 i18n:
   activeIncidents: Aktive Störungen
+  activeScheduledMaintenance: Aktive geplante Wartungsarbeiten
   allSystemsOperational: Alle Systeme sind betriebsbereit
   incidentReport: "Ticket zu Störung #$NUMBER →"
   activeIncidentSummary: Eröffnet am $DATE mit $POSTS Kommentaren
@@ -48,6 +49,7 @@ i18n:
   incidentBack: ← Zurück zu allen Störungen
   pastIncidents: Vergangene Störungen
   pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Kommentaren
+  pastScheduledMaintenance: Frühere geplante Wartungsarbeiten
   liveStatus: Live Status
   overallUptime: "Gesamtbetriebszeit: $UPTIME"
   overallUptimeTitle: Uptime gesamt
@@ -60,6 +62,7 @@ i18n:
   degraded: Schlechte Reaktionszeit
   ms: ms
   loading: Lade
+  complete: Abgeschlossen
   navGitHub: GitHub
   footer: Diese Seite ist [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceedeed
