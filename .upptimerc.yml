@@ -12,6 +12,8 @@ sites:
     url: https://shop.cbmode.de
   - name: Zingst
     url: https://www.zingst.de
+  - name: CASE
+    url: https://cloppenburg-gruppe.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
