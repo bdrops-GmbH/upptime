@@ -82,7 +82,7 @@
     "time": 2903,
     "timeDay": 1312,
     "timeWeek": 2148,
-    "timeMonth": 3416,
+    "timeMonth": 3418,
     "timeYear": 2903,
     "dailyMinutesDown": {
       "2021-02-17": 32,
@@ -106,7 +106,7 @@
     "url": "https://cloppenburg-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/cloppenburg-gruppe.de",
     "slug": "case",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
