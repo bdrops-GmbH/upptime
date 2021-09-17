@@ -48,11 +48,11 @@
     "icon": "https://favicons.githubusercontent.com/shop.cbmode.de",
     "slug": "cb-shop",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 865,
     "timeDay": 860,
     "timeWeek": 995,
@@ -117,6 +117,24 @@
     "timeWeek": 2946,
     "timeMonth": 2812,
     "timeYear": 2697,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "bdrops.de",
+    "url": "https://bdrops.de",
+    "icon": "https://favicons.githubusercontent.com/bdrops.de",
+    "slug": "bdrops-de",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1007,
+    "timeDay": 1007,
+    "timeWeek": 1007,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {}
   }
 ]
