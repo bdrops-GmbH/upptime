@@ -1,7 +1,7 @@
 url: https://cloppenburg-gruppe.de
-status: up
-code: 200
-responseTime: 1725
-lastUpdated: 2021-09-20T23:15:52.526Z
+status: down
+code: 500
+responseTime: 1899
+lastUpdated: 2021-09-21T08:36:51.813Z
 startTime: Mon Jun 21 2021 12:57:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
