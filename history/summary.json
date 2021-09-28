@@ -47,7 +47,7 @@
     "url": "https://shop.cbmode.de",
     "icon": "https://favicons.githubusercontent.com/shop.cbmode.de",
     "slug": "cb-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -82,7 +82,7 @@
     "time": 2873,
     "timeDay": 1425,
     "timeWeek": 2421,
-    "timeMonth": 2511,
+    "timeMonth": 2502,
     "timeYear": 2873,
     "dailyMinutesDown": {
       "2021-02-17": 32,
@@ -114,7 +114,7 @@
     "uptimeYear": "100.00%",
     "time": 2665,
     "timeDay": 2757,
-    "timeWeek": 2452,
+    "timeWeek": 2422,
     "timeMonth": 2565,
     "timeYear": 2665,
     "dailyMinutesDown": {}
