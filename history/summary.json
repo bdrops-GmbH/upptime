@@ -124,17 +124,17 @@
     "url": "https://bdrops.de",
     "icon": "https://favicons.githubusercontent.com/bdrops.de",
     "slug": "bdrops-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1313,
-    "timeDay": 1001,
-    "timeWeek": 1095,
+    "time": 1310,
+    "timeDay": 1052,
+    "timeWeek": 1101,
     "timeMonth": 1147,
-    "timeYear": 1313,
+    "timeYear": 1310,
     "dailyMinutesDown": {}
   }
 ]
