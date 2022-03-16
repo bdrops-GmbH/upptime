@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 902,
-    "timeDay": 830,
-    "timeWeek": 794,
-    "timeMonth": 796,
-    "timeYear": 924,
+    "timeDay": 835,
+    "timeWeek": 763,
+    "timeMonth": 788,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1334,
-    "timeWeek": 1102,
-    "timeMonth": 1155,
-    "timeYear": 1143,
+    "time": 1114,
+    "timeDay": 1442,
+    "timeWeek": 1103,
+    "timeMonth": 1161,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -47,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
-    "timeDay": 1039,
-    "timeWeek": 953,
-    "timeMonth": 1021,
-    "timeYear": 972,
-    "dailyMinutesDown": {
-      "2021-03-16": 14
-    }
+    "timeDay": 1041,
+    "timeWeek": 946,
+    "timeMonth": 1013,
+    "timeYear": 971,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zingst",
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2531,
-    "timeDay": 1847,
-    "timeWeek": 1633,
-    "timeMonth": 1644,
+    "time": 2530,
+    "timeDay": 2009,
+    "timeWeek": 1637,
+    "timeMonth": 1645,
     "timeYear": 2506,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2737,
-    "timeDay": 3193,
-    "timeWeek": 2973,
-    "timeMonth": 2789,
+    "timeDay": 2809,
+    "timeWeek": 2874,
+    "timeMonth": 2780,
     "timeYear": 2737,
     "dailyMinutesDown": {}
   },
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1180,
-    "timeDay": 1374,
-    "timeWeek": 1078,
-    "timeMonth": 1124,
+    "timeDay": 1268,
+    "timeWeek": 1077,
+    "timeMonth": 1122,
     "timeYear": 1180,
     "dailyMinutesDown": {}
   }
