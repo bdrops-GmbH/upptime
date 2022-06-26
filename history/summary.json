@@ -68,7 +68,7 @@
     "timeDay": 1257,
     "timeWeek": 1576,
     "timeMonth": 1664,
-    "timeYear": 2222,
+    "timeYear": 2221,
     "dailyMinutesDown": {}
   },
   {
@@ -94,7 +94,7 @@
     "url": "https://bdrops.de",
     "icon": "https://favicons.githubusercontent.com/bdrops.de",
     "slug": "bdrops-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
