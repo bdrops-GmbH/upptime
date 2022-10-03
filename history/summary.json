@@ -68,7 +68,7 @@
     "timeDay": 1523,
     "timeWeek": 2660,
     "timeMonth": 1791,
-    "timeYear": 1810,
+    "timeYear": 1809,
     "dailyMinutesDown": {}
   },
   {
@@ -76,15 +76,15 @@
     "url": "https://cloppenburg-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/cloppenburg-gruppe.de",
     "slug": "case",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2767,
+    "time": 2768,
     "timeDay": 2984,
-    "timeWeek": 2729,
+    "timeWeek": 2781,
     "timeMonth": 2653,
     "timeYear": 2789,
     "dailyMinutesDown": {}
