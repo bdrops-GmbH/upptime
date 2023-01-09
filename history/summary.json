@@ -76,7 +76,7 @@
     "url": "https://cloppenburg-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/cloppenburg-gruppe.de",
     "slug": "case",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2731,
     "timeDay": 2958,
-    "timeWeek": 2525,
+    "timeWeek": 2440,
     "timeMonth": 2468,
     "timeYear": 2731,
     "dailyMinutesDown": {}
