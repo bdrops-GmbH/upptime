@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 755,
     "timeDay": 511,
-    "timeWeek": 746,
+    "timeWeek": 628,
     "timeMonth": 680,
     "timeYear": 742,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1132,
     "timeDay": 855,
-    "timeWeek": 1983,
+    "timeWeek": 1028,
     "timeMonth": 1362,
     "timeYear": 1140,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1090,
     "timeDay": 749,
-    "timeWeek": 1369,
+    "timeWeek": 900,
     "timeMonth": 1487,
     "timeYear": 1102,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://www.zingst.de",
     "icon": "https://favicons.githubusercontent.com/www.zingst.de",
     "slug": "zingst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1760,
-    "timeDay": 1316,
-    "timeWeek": 2207,
-    "timeMonth": 1740,
-    "timeYear": 1744,
+    "timeDay": 1773,
+    "timeWeek": 1635,
+    "timeMonth": 1755,
+    "timeYear": 1745,
     "dailyMinutesDown": {}
   },
   {
@@ -84,9 +84,9 @@
     "uptimeYear": "100.00%",
     "time": 2736,
     "timeDay": 2480,
-    "timeWeek": 3197,
+    "timeWeek": 2585,
     "timeMonth": 2995,
-    "timeYear": 2754,
+    "timeYear": 2755,
     "dailyMinutesDown": {}
   },
   {
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1120,
     "timeDay": 869,
-    "timeWeek": 977,
+    "timeWeek": 1009,
     "timeMonth": 1044,
     "timeYear": 1105,
     "dailyMinutesDown": {}
