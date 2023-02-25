@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 702,
-    "timeWeek": 708,
-    "timeMonth": 721,
-    "timeYear": 738,
+    "time": 744,
+    "timeDay": 1579,
+    "timeWeek": 827,
+    "timeMonth": 747,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1366,
-    "timeWeek": 1115,
-    "timeMonth": 1411,
-    "timeYear": 1145,
+    "time": 1138,
+    "timeDay": 1269,
+    "timeWeek": 1119,
+    "timeMonth": 1412,
+    "timeYear": 1146,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1094,
-    "timeDay": 1110,
-    "timeWeek": 943,
-    "timeMonth": 1078,
-    "timeYear": 1100,
+    "timeDay": 1050,
+    "timeWeek": 926,
+    "timeMonth": 1076,
+    "timeYear": 1101,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1728,
-    "timeDay": 1917,
-    "timeWeek": 1550,
-    "timeMonth": 1761,
-    "timeYear": 1737,
+    "timeDay": 1850,
+    "timeWeek": 1545,
+    "timeMonth": 1760,
+    "timeYear": 1739,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2754,
-    "timeDay": 3217,
-    "timeWeek": 2711,
-    "timeMonth": 2949,
-    "timeYear": 2755,
+    "time": 2757,
+    "timeDay": 3772,
+    "timeWeek": 2736,
+    "timeMonth": 2979,
+    "timeYear": 2761,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1376,
-    "timeWeek": 1096,
-    "timeMonth": 1087,
-    "timeYear": 1105,
+    "time": 1106,
+    "timeDay": 1302,
+    "timeWeek": 1101,
+    "timeMonth": 1089,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   }
 ]
